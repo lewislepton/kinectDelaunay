@@ -1,6 +1,6 @@
 # kinectDelaunay
 
-***i dont plan to do any updates at all for this in the future. so please refrain from asking. but i do want to have fun with this & to hopefully learn something & put it to good use*** 😘👍
+***i dont plan to do any updates at all for this in the future. so please refrain from asking. but i do want you to have fun with this & to hopefully learn something & put it to good use*** 😘👍
 <br><br>
 kinect [v1 model 1414] application that uses delaunay triangulation to make some trippy visuals when you get in front of camera.<br>
 gui can control intensity etc. very easy to use.
